@@ -8,7 +8,7 @@
 
 [opencv_题号.小题号](/rm/src/)表示OpenCV的题
 
-[picture文件夹](/rm/picture/)中的是保存的图片和视频
+[picture文件夹](/rm/pictures/)中的是保存的图片和视频
 
 [考核完成情况总结.txt](/rm/考核完成情况总结.txt)是考核完成情况总结
 
