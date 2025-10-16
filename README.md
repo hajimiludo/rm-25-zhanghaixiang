@@ -6,7 +6,7 @@
 
 其中[C++1.0.cpp](/rm/src/C++1.0.cpp)表示第三题C++应用题
 
-opencv_题号.小题号表示OpenCV的题
+[opencv_题号.小题号](/rm/src/)表示OpenCV的题
 
 [picture文件夹](/rm/picture/)中的是保存的图片和视频
 
